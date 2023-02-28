@@ -1,7 +1,6 @@
 
 import uvicorn
 from pydantic import BaseModel
-import numpy as np
 import pickle
 from fastapi import FastAPI
 #app object
